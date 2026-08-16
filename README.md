@@ -33,6 +33,12 @@ Here, I document detailed, professional-grade technical writeups, root-cause ana
 | :--- | :--- | :--- | :--- | :--- |
 | -- | -- | -- | -- | -- |
 
+### 🔵 OverTheWire-Bandit
+
+| Level Completed | Core Concepts & Techniques Mastered | link to Writeup |
+| :--- | :--- | :--- |
+| -- | -- | -- |
+
 ### 🔍 OSINT & Digital Forensics
 
 | Challenge Name | Platform | Focus Area | Link to Writeup |
