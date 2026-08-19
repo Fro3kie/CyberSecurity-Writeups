@@ -20,12 +20,12 @@ Here, I document detailed, professional-grade technical writeups, root-cause ana
 
 ### 🔴 TryHackMe
 
-| Machine / Room | Difficulty | Category / Core Concepts | Link to Writeup |
-| :--- | :--- | :--- | :--- |
-| --|-- | -- |-- |
-| -- | -- |-- | --|
-|-- | -- | -- ||
-| -- | -- | -- | -- |
+| Machine / Room | Difficulty | Category / Core Concepts | Link to Writeup                                           |
+|:---------------|:-----------|:-------------------------|:----------------------------------------------------------|
+| GamingServer   | Easy       | Web Security / Linux PrivEsc / CTF                         | [GamingServer.md](TryHackMe/GamingServer.md)              |
+| --             | --         | --                       | --                                                        |
+| --             | --         | --                       |                                                           |
+| --             | --         | --                       | --                                                        |
 
 ### 🟢 Hack The Box
 
