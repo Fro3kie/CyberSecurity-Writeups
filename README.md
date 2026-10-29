@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Research & Lab Writeups
 
-Welcome to my cybersecurity research repository! This repository serves as a central portfolio of my hands-on experience in offensive security, web application testing, digital forensics, and network penetration testing. 
+Welcome to my cybersecurity research repository! This repository serves as a central HUB for my hands-on experience in offensive security, web application testing, digital forensics, and network penetration testing. 
 
 Here, I document detailed, professional-grade technical writeups, root-cause analyses, and remediation strategies for vulnerable lab machines and CTF challenges.
 
