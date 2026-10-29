@@ -4,15 +4,6 @@ Welcome to my cybersecurity research repository! This repository serves as a cen
 
 Here, I document detailed, professional-grade technical writeups, root-cause analyses, and remediation strategies for vulnerable lab machines and CTF challenges.
 
----
-
-## 📊 Lab Performance & Metrics
-
-* **TryHackMe:** Top 3% Globally | 150+ Day Streak
-* **OverTheWire:** Bandit Completed (Level 13+)
-* **Focus Areas:** Web Application Security, Linux Privilege Escalation, OSINT, Active Directory
-
----
 
 ## 🎯 Room & Machine Directory
 
@@ -24,36 +15,9 @@ Here, I document detailed, professional-grade technical writeups, root-cause ana
 |:---------------|:-----------|:-------------------------|:----------------------------------------------------------|
 | GamingServer   | Easy       | Web Security / Linux PrivEsc / CTF                         | [GamingServer.md](TryHackMe/GamingServer.md)              |
 | Dreaming             | Easy         | Web Exploitation / MySQL Injection / Python Library Hijacking / Linux PrivEsc                      |  [Dreaming.md](TryHackMe/Dreaming.md)                                                           |
-| --             | --         | --                       |                                                           |
-| --             | --         | --                       | --                                                        |
 
-### 🟢 Hack The Box
 
-| Machine | Difficulty | OS | Key Concepts | Link to Writeup |
-| :--- | :--- | :--- | :--- | :--- |
-| -- | -- | -- | -- | -- |
 
-### 🔵 OverTheWire-Bandit
-
-| Level Completed | Core Concepts & Techniques Mastered | link to Writeup |
-| :--- | :--- | :--- |
-| -- | -- | -- |
-
-### 🔍 OSINT & Digital Forensics
-
-| Challenge Name | Platform | Focus Area | Link to Writeup |
-| :--- | :--- | :--- | :--- |
-| -- | -- | --|-- |
-|-- | -- |-- |--|
-
----
-
-## 🛠️ Tooling & Frameworks
-
-* **Reconnaissance:** 
-* **Exploitation & Cracking:** 
-* **Post-Exploitation:**
-* **Scripting & Automation:** 
 
 ---
 
