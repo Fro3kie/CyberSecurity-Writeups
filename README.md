@@ -8,7 +8,7 @@ Here, I document detailed, professional-grade technical writeups, root-cause ana
 
 ## 📊 Lab Performance & Metrics
 
-* **TryHackMe:** Top 4% Globally | 100+ Day Streak
+* **TryHackMe:** Top 3% Globally | 150+ Day Streak
 * **OverTheWire:** Bandit Completed (Level 13+)
 * **Focus Areas:** Web Application Security, Linux Privilege Escalation, OSINT, Active Directory
 
@@ -23,7 +23,7 @@ Here, I document detailed, professional-grade technical writeups, root-cause ana
 | Machine / Room | Difficulty | Category / Core Concepts | Link to Writeup                                           |
 |:---------------|:-----------|:-------------------------|:----------------------------------------------------------|
 | GamingServer   | Easy       | Web Security / Linux PrivEsc / CTF                         | [GamingServer.md](TryHackMe/GamingServer.md)              |
-| --             | --         | --                       | --                                                        |
+| Dreaming             | Easy         | Web Exploitation / MySQL Injection / Python Library Hijacking / Linux PrivEsc                      |  [Dreaming.md](TryHackMe/Dreaming.md)                                                           |
 | --             | --         | --                       |                                                           |
 | --             | --         | --                       | --                                                        |
 
