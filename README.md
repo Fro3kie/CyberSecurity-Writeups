@@ -7,14 +7,15 @@ Here, I document detailed, professional-grade technical writeups, root-cause ana
 
 ## 🎯 Room & Machine Directory
 
-> *Use `Ctrl + F` (or `Cmd + F`) to quickly search for specific machines, vulnerabilities, or techniques.*
-
-### 🔴 TryHackMe
+> *Use `Ctrl + F` or `Cmd + F` to quickly search for specific machines, vulnerabilities, or techniques.*
+---
+### 1. TryHackMe
 
 | Machine / Room | Difficulty | Category / Core Concepts | Link to Writeup                                           |
 |:---------------|:-----------|:-------------------------|:----------------------------------------------------------|
 | GamingServer   | Easy       | Web Security / Linux PrivEsc / CTF                         | [GamingServer.md](TryHackMe/GamingServer.md)              |
 | Dreaming             | Easy         | Web Exploitation / MySQL Injection / Python Library Hijacking / Linux PrivEsc                      |  [Dreaming.md](TryHackMe/Dreaming.md)                                                           |
+| Agent T  | Easy | Web Exploitation / PHP 8.1.0-dev RCE / CVE-2021-42013 | [Agent T](TryHackMe/AgentT.md)  |
 
 
 
